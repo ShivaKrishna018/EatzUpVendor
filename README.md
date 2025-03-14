@@ -22,15 +22,16 @@ Eatzupventor is a comprehensive food ordering platform designed to empower resta
     * User-friendly and interactive UI for a seamless restaurant management experience.
 
 ## Screenshots
-
-<img src="https://github.com/user-attachments/assets/4e45fb18-d8fe-4fce-8a1c-88e1b971276a" width="100">
 <img src="https://github.com/user-attachments/assets/add6923b-1817-413e-b071-cb13d052c107" width="100">
+<img src="https://github.com/user-attachments/assets/1d6509f0-74d9-47d2-8693-0fe829685363" width="100">
+<img src="https://github.com/user-attachments/assets/e42c12d0-b594-4b93-b46d-5906f8cc1c1c" width="100">
+<img src="https://github.com/user-attachments/assets/4e45fb18-d8fe-4fce-8a1c-88e1b971276a" width="100">
+
 <img src="https://github.com/user-attachments/assets/5b11d7d4-8a85-4577-acb0-bb6fdcaa5787" width="100">
 <img src="https://github.com/user-attachments/assets/f6cdddfc-72af-45fc-aff1-fb65a9d0adac" width="100">
 <img src="https://github.com/user-attachments/assets/83057224-5ca5-4071-9a3c-eb4a3ce5114a" width="100">
 
-<img src="https://github.com/user-attachments/assets/1d6509f0-74d9-47d2-8693-0fe829685363" width="100">
-<img src="https://github.com/user-attachments/assets/e42c12d0-b594-4b93-b46d-5906f8cc1c1c" width="100">
+
 
 
 
@@ -39,21 +40,18 @@ Eatzupventor is a comprehensive food ordering platform designed to empower resta
 * **Firebase Authentication:** For secure user authentication.
 * **Firebase Cloud Storage:** For image storage.
 * **Firebase Realtime Database:** For real-time data synchronization.
-* [Your Frontend technology. Example: Android (Kotlin/Java) with Jetpack Compose, or React Native, or Flutter]
-* [Any other relevant libraries or dependencies]
+* Android Kotlin
 
 ## Architecture
 
 * **Firebase Integration:** The app heavily relies on Firebase services for data storage, authentication, and real-time updates.
 * **Interactive UI:** The user interface is designed for intuitive and efficient restaurant management.
-* [If applicable, mention your architectural pattern like MVVM, MVC, or Clean Architecture.]
 
 ## Installation
 
-[Provide instructions on how to install and run your application. For example:]
 
 1.  Clone the repository: `git clone [your-repository-url]`
-2.  Open the project in [Your IDE].
+2.  Open the project in [Your Android studio].
 3.  Configure Firebase:
     * Create a Firebase project.
     * Enable Authentication, Cloud Storage, and Realtime Database.
@@ -62,8 +60,6 @@ Eatzupventor is a comprehensive food ordering platform designed to empower resta
 5.  Run the application.
 
 ## Usage
-
-[Explain how to use your app. For example:]
 
 * **Authentication:**
     * Restaurant owners can create an account or log in using Firebase Authentication.
