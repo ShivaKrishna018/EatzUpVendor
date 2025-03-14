@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142687620442",
+    "firebase_url": "https://eatzup-3e193-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eatzup-3e193",
+    "storage_bucket": "eatzup-3e193.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142687620442:android:0dca47658fa9bbeec13763",
+        "android_client_info": {
+          "package_name": "com.kronos.eatzupvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142687620442-fo78lhv50hauf3tv30rarq0jf9fmt3c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kronos.eatzupvendor",
+            "certificate_hash": "35244d0e99bc8a1a05223add2d61a2679d827dcf"
+          }
+        },
+        {
+          "client_id": "142687620442-i5aqjtscj9pcqh51vutb0fo3h59cl49m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3-LK3SbKy52mOdsRtGG5HZ3XGcQunMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142687620442-i5aqjtscj9pcqh51vutb0fo3h59cl49m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

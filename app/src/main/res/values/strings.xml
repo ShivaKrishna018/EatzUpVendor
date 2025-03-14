@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">EatzUpVendor</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="login">Login</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="or">or</string>
+    <string name="create_account">create account</string>
+
+    <string name="don_t_have_a_account">Don\'t have a account?</string>
+    <string name="already_have_a_account">Already have a account</string>
+    <string name="get_started_here">Get started here</string>
+    <string name="choose_location">Choose location</string>
+    <string name="choose_your_location">Choose your location</string>
+    <string name="info"> Explore a diverse menu of local restaurants and discover new flavors with ease. Customize your order to your liking and track your delivery in real-time. Enjoy exclusive deals and discounts, and join a community of food lovers. </string>
+
+    <string-array name="locationList">
+        <item>Salem</item>
+        <item>Coimbatore</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+        <item>Hyderabad</item>
+        <item>Indore</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="_5">$5</string>
+    <string name="foodList">foodList</string>
+    <string name="briyani">Briyani</string>
+    <string name="fried_rice">Fried Rice</string>
+    <string name="trash">trash</string>
+    <string name="plusButton">plusButton</string>
+    <string name="minusButton">minusButton</string>
+    <string name="_1">1</string>
+    <string name="popular">Popular</string>
+    <string name="view_menu">View Menu</string>
+    <string name="menu">Menu</string>
+    <string name="buy_again">Buy Again</string>
+    <string name="recent_buy">Recent Buy</string>
+    <string name="name">Name:</string>
+    <string name="admin">Admin</string>
+    <string name="address">Address:</string>
+    <string name="main_road_delhi_835523">Main road, Delhi, 835523</string>
+    <string name="phone">phone:</string>
+    <string name="_999999">#999999</string>
+    <string name="email">email</string>
+    <string name="shivakrishna_gmail_com">ShivaKrishna@gmail.com</string>
+    <string name="save_information">Save Information</string>
+    <string name="proceed">Proceed</string>
+    <string name="see_all">See all</string>
+    <string name="Food_info">Refreshing mix of vegetables, fruits, or proteins; healthy, customizable meals.</string>
+    <string name="dishInfo">Fresh, vibrant, and endlessly versatile, salads offer a crisp, healthy burst of flavor, transforming simple ingredients into a satisfying, customizable meal.</string>
+
+    <string name="login_to_your_account">login_to_your_account</string>
+    <string name="sales">Inventory to delivery: Streamline your sales with real-time tracking!!</string>
+    <string name="delivery">Delivery</string>
+    <string name="new_user">New User</string>
+    <string name="discovery">Discovery</string>
+    <string name="description">Description</string>
+    <string name="dish_description">Dish Description</string>
+    <string name="enter_dish_price">Enter dish price</string>
+    <string name="enter_dish_name">Enter dish Name</string>
+    <string name="select_image">Select Image</string>
+    <string name="dish">Dish</string>
+    <string name="price">Price</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="restaurant_name">restaurant name</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+</resources>
